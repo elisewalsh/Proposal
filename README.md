@@ -1,6 +1,6 @@
 # Proposal
 
-# Web Seminar Proposal
+## Web Seminar Proposal
 
 ### Project 1
 
